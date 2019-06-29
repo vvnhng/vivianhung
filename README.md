@@ -1,17 +1,12 @@
 # Vivian Hung
 
-
-
-
-Helium is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
-
 [Bootstrap theme source](https://uideck.com/products/helium-ui-kit/)
 
 ![helium sample](https://raw.githubusercontent.com/heliumjk/heliumjk.github.io/master/assets/images/helium-screenshot.jpg)
 ![helium theme](https://raw.githubusercontent.com/heliumjk/heliumjk.github.io/master/assets/images/helium-screenshot1.jpg)
 
-## Features
-Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:
+## About
+College student at University of Washington. Go Dawgs!
 
 Main features:
 * [Bootstrap 4](https://v4-alpha.getbootstrap.com/)
